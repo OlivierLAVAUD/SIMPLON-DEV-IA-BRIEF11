@@ -82,7 +82,6 @@ bashCopy code
 -   **Erreur absolue moyenne pourcentage (Mean Absolute Percentage Error, MAPE)** : La moyenne des pourcentages absolus des écarts entre les valeurs prédites et les valeurs réelles sur une séquence de temps.
 
 ### Backtesting
-Pur effectuer différentes formes de backtesting, nous pouvons utiliser des techniques telles que la validation croisée, la validation croisée temporelle, et la validation croisée avec séparation des groupes. Voici comment nous pouvons intégrer ces techniques dans notre structure de code existante :
 
 1.  **Validation croisée (k-fold cross-validation) :** Cette technique divise les données en k sous-ensembles et entraîne le modèle k fois, en utilisant chaque sous-ensemble comme ensemble de test une fois et les autres sous-ensembles comme ensembles d'entraînement.
     
