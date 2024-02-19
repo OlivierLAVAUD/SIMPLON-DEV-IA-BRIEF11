@@ -12,7 +12,7 @@ Le projet est organisé comme suit :
     -   `collecting.py`: Script Python pour la collecte de donnees
     -   `preprocessing.py`: Script Python pour le prétraitement des données.
     -   `modeling.py`: Script Python pour l'entraînement du modèle de recommandation.
-    -   `evaluation_metrics.py`: Script Python pour évaluer les performances du modèle avec différentes métriques.
+    -   `evaluation.py`: Script Python pour évaluer les performances du modèle avec différentes métriques.
 
 -   `README.md`: Ce fichier. Il fournit des informations sur le projet et comment l'utiliser.
 
